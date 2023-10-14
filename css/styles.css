@@ -170,7 +170,7 @@ footer {
 	clear: both;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
 	.navigation ul li {
 		width: 100%;
 		clear: both;
